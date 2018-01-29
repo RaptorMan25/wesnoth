@@ -579,5 +579,27 @@ void addons_client::wait_for_transfer_done(const std::string& status_message, tr
 		} else {
 			throw user_exit();
 		}
+ public void run() {
+	 move();
+	 move();
+	 turnLEFT()
+ }
+		
+		
+		this is the zodiac speaking
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
